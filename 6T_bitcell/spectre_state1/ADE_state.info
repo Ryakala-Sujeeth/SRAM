@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("SRAM" "6T_bitcell" "schematic" "spectre")
+descriptionText = "None"
